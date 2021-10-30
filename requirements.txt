@@ -1,0 +1,4 @@
+mediapipe==0.8.8
+opencv_python==4.5.3.56
+Django==3.2.8
+python-decouple==3.5
